@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Beeline Sans Bold';
+  src: url('Beeline_Sans_V0.1-Bold.eot');
+  src: url('Beeline_Sans_V0.1-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Beeline_Sans_V0.1-Bold.woff') format('woff'),
+       url('BeelineSansV0.1-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Beeline Sans Regular';
+  src: url('Beeline_Sans_V0.1-Regular.eot');
+  src: url('Beeline_Sans_V0.1-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Beeline_Sans_V0.1-Regular.woff') format('woff'),
+       url('BeelineSansV0.1-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.officina			{font-family: 'Beeline Sans Regular'}
+.officina strong	{font-family: 'Beeline Sans Bold';font-weight:normal}
